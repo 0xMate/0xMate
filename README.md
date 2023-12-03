@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @0xMate
 - 👀 I’m interested in some new AI development
 - 🌱 I’m currently learning to live
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any interesting projects
 - 📫 How to reach me ...
 
 <!---
